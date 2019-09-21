@@ -28,7 +28,7 @@ int main()
   f2 *= 0.01;
 
   // TODO#1 add comment describing what's happening
-  std::cout << "\nThe values of the float and the double are not the same as the float" << std::endl;
+  std::cout << "\nThe values of the float and the double are not the same as the float as the float does not contain as much data as a float" << std::endl;
   std::cout << sizeof(d2) << " bytes, value: " << d2 << std::endl;
   std::cout << sizeof(f2) << " bytes, value: " << f2 << std::endl;
 
